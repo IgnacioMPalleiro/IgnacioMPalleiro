@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hi there, I'm Ignacio 👋</h1>
-  <p><strong>DevOps & Cloud Engineer | Automation & IaC Specialist</strong></p>
+  <p><strong> JR. DevOps & Cloud Engineer | Automation & IaC Specialist</strong></p>
 
   <!-- Badges de Estado -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -57,7 +57,7 @@
 ### 📬 Connect with me
 
 <p align="left">
-  <a href="www.linkedin.com/in/ignacio-martin-palleiro-726392284" target="blank">
+  <a href="https://www.linkedin.com/in/ignacio-martin-palleiro-726392284" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ignaciompalleiro@gmail.com">
